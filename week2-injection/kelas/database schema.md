@@ -3,7 +3,7 @@
 [Database Schema](http://localhost:3000/#/score-board?categories=Injection)
 
 ## Langkah-langkah pengerjaan
-1.
+1. Melakukan 
 ![Alt text](./gambar/ds-1.png)
 
 2.
