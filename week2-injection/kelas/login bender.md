@@ -1,5 +1,8 @@
 # Login Bender - OWASP Juice Shop
 
+### Detail Informasi
+Kategori = Injection☠️
+
 [Login Bender](http://localhost:3000/#/score-board?categories=Injection)
 
 ## Langkah-langkah pengerjaan

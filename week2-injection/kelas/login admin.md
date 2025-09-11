@@ -1,5 +1,8 @@
 # Login Admin - OWASP Juice Shop
 
+### Detail Informasi
+Kategori = Injection☠️
+
 [Login Admin](http://localhost:3000/#/score-board?categories=Injection)
 
 ## Langkah-langkah pengerjaan
