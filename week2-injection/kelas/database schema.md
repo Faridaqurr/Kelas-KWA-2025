@@ -1,6 +1,7 @@
 # Database Schema - OWASP Juice Shop
 
 ### Detail Informasi
+---
 Kategori = Injection☠️
 
 [Database Schema](http://localhost:3000/#/score-board?categories=Injection)

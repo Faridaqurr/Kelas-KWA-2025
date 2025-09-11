@@ -1,6 +1,7 @@
 # nosql manipulation - OWASP Juice Shop
 
 ### Detail Informasi
+---
 Kategori = Injection☠️
 
 [nosql manipulation](http://localhost:3000/#/score-board?categories=Injection)

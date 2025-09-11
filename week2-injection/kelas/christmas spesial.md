@@ -1,7 +1,7 @@
 # Christmas Spesial - OWASP Juice Shop
 
 ### Detail Informasi
-
+---
 Kategori = Injection☠️
 
 [Christmas Spesial](http://localhost:3000/#/score-board?categories=Injection)

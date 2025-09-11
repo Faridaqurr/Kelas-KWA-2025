@@ -1,6 +1,7 @@
 # Ephemeral Accountant - OWASP Juice Shop
 
 ### Detail Informasi
+---
 Kategori = Injection☠️
 
 [Ephemeral Accountant](http://localhost:3000/#/score-board?categories=Injection)

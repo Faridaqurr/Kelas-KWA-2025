@@ -1,6 +1,7 @@
 # user credential - OWASP Juice Shop
 
 ### Detail Informasi
+---
 Kategori = Injection☠️
 
 [user credential](http://localhost:3000/#/score-board?categories=Injection)

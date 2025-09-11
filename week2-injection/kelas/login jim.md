@@ -1,6 +1,7 @@
 # Login Jim - OWASP Juice Shop
 
 ### Detail Informasi
+---
 Kategori = Injection☠️
 
 [Login Jim](http://localhost:3000/#/score-board?categories=Injection)
