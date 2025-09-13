@@ -1,6 +1,6 @@
 # 📚 Kelas-KWA-2025
 
- **Keamanan Web dan Aplikasi 2025** 🚀  
+ **Keamanan Web dan Aplikasi 2025** 
 
 >**Farida Qurrotu A'yuna**  
 NRP: `5027231015`

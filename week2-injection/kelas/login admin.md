@@ -1,10 +1,10 @@
 # Login Admin - OWASP Juice Shop
 
-### Detail Informasi
----
-Kategori = Injection☠️
+>Kategori = Injection☠️
 
-[Login Admin](http://localhost:3000/#/score-board?categories=Injection)
+[login admin](http://localhost:3000/#/score-board?categories=Injection)
+
+---
 
 ## Langkah-langkah pengerjaan
 1. Mencari bagian menu **Login** untuk masuk ke akun

@@ -1,10 +1,10 @@
 # Login Jim - OWASP Juice Shop
 
-### Detail Informasi
----
-Kategori = Injection☠️
+>Kategori = Injection☠️
 
-[Login Jim](http://localhost:3000/#/score-board?categories=Injection)
+[login jim](http://localhost:3000/#/score-board?categories=Injection)
+
+---
 
 ## Langkah-langkah Pengerjaan
 1. Diminta mencari alamat email dengan kata kuncinya `jim`, dan alamat email tersebut ditemukan pada bagian review produk didapatkan alamat email `jim@juice-sh.op`

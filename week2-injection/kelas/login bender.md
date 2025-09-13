@@ -1,10 +1,10 @@
 # Login Bender - OWASP Juice Shop
 
-### Detail Informasi
----
-Kategori = Injection☠️
+>Kategori = Injection☠️
 
-[Login Bender](http://localhost:3000/#/score-board?categories=Injection)
+[login bender](http://localhost:3000/#/score-board?categories=Injection)
+
+---
 
 ## Langkah-langkah pengerjaan
 1. Pada soal sebelumnya ditemukan juga alamat email dengan kata kunci `bender` di bagian review yaitu `bender@juice-sh.op`

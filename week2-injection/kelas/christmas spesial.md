@@ -1,10 +1,10 @@
 # Christmas Spesial - OWASP Juice Shop
 
-### Detail Informasi
----
-Kategori = Injection☠️
+>Kategori = Injection☠️
 
-[Christmas Spesial](http://localhost:3000/#/score-board?categories=Injection)
+[christmas spesial](http://localhost:3000/#/score-board?categories=Injection)
+
+---
 
 ## Langkah-langkah pengerjaan
 1. Dari endpoint yang di dapat dari challange sebelumnya saya mencoba bypass dengan menambahkan `%'))+--` setelah endpoint `/rest/products/search?q=`
