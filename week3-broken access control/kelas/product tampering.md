@@ -23,4 +23,10 @@ Change the href of the link within the OWASP SSL Advanced Forensic Tool (O-Saft)
 6. 
 ![alt](./gambar/pt-6.png)
 
+## Find and Fix
+1.
+![alt](./gambar/pt-7.png)
+
+2.
+![alt](./gambar/pt-8.png)
 ## Catatan hasil percobaan
